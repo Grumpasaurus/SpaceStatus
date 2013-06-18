@@ -5,7 +5,7 @@ A small Google Chrome extension that checks whether your favorite hacker-space h
 
 ## About
 
-This project is not done yet, so feel free to finish it!
+This project is not done yet, so feel free to edit and/or finish it!
 
 ## Doc Tips
 
@@ -14,6 +14,6 @@ Here is a quick example:
 - if "welcome_message__:__Chose a space..." get selected, it will just show a text with the value after the prefix
 - if "source_link__:__http://acemonstertoys.org/status.json" get selected, it will go to the source link (json file) and load the speace informations via AJAX
 
-There are to functions that are necessary, in order to use entries with prefixes:
+There are two functions that are necessary, in order to use entries with prefixes:
 - attache_prefix()
 - determ_prefix()
