@@ -8,8 +8,8 @@
 
   "browser_action": {
     "default_icon": {
-      "19": "Images/logo_neutral_19px.png",
-      "38": "Images/logo_neutral_38px.png"
+      "19": "Images/logo.png",
+      "38": "Images/logo.png"
     },
     "default_popup": "popup.html"
   },
@@ -21,20 +21,12 @@
   ],
 
   "web_accessible_resources": [
-    "Images/logo_positive_19px.png",
-    "Images/logo_positive_38px.png",
-    "Images/logo_neutral_19px.png",
-    "Images/logo_neutral_38px.png",
-    "Images/logo_negative_19px.png",
-    "Images/logo_negative_38px.png",
-    "Images/notification_positive.png",
-    "Images/notification_negative.png"
+    "Images/logo.png"
   ],
 
   "background": {
     "scripts": [
       "JavaScript/jquery-1.9.1.js",
-      "JavaScript/data_api.js",
       "JavaScript/popup.js"
     ]
   }
