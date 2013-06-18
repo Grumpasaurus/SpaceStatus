@@ -20,6 +20,10 @@ There are two functions that are necessary, in order to use entries with prefixe
 
 ## Feature suggestion
 
-### Favorite HS
+### Stared hacker-spaces
 
 It would be pretty neat if the user had an option to star any hacker-space in the list. There could be another <optgroup> element in the drop down menu, which gives quick access to the stared hacker-space.
+
+### Different space sources
+
+It would be way better, to take the list of hacker-spaces (that using the SpaceAPI) from a different source (other than [this source list](https://raw.github.com/SpaceApi/OpenSpaceDirectory/master/directory.json)).
