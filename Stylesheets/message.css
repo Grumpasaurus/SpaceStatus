@@ -1,0 +1,19 @@
+#green {color: green;}
+#red {color: red;}
+#blue {color: blue;}
+
+.message {
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+}
+.message p {
+	padding: 5px;
+}
+.message .message_title {
+	font-size: 20px;
+}
+.message_subtitle {
+	font-size: 15px;
+	line-height: 150%;
+}

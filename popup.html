@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SpaceStatus</title>
+		<script src="JavaScript/jquery-1.9.1.js"></script>
+		<script src="JavaScript/data_api.js"></script>
+		<script src="JavaScript/popup.js"></script>
+		<link rel="stylesheet" type="text/css" href="Stylesheets/main.css">
+		<link rel="stylesheet" type="text/css" href="Stylesheets/message.css">
+	</head>
+	<body>
+		<form>
+			<select id="option_input">
+				<optgroup label="placeholder" id="placeholder">
+				</optgroup>
+				<optgroup label="all hackspaces" id="list_of_spaces">
+				</optgroup>
+			</select>
+		</form>
+		<div class="message">
+			<p class="message_subtitle">Is it open?</p>
+			<p class="message_title">Check it out!</p>
+		</div>
+		<div id="data_links">
+			<a href="#" id="data_url" target="_blank">goto space >></a>
+			<a href="#" id="site_help" target="_blank">need help?</a>
+		</div>
+	</body>
+</html>
