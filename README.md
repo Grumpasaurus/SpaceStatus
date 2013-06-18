@@ -17,3 +17,9 @@ Here is a quick example:
 There are two functions that are necessary, in order to use entries with prefixes:
 - attache_prefix()
 - determ_prefix()
+
+## Feature suggestion
+
+### Favorite HS
+
+It would be pretty neat if the user had an option to star any hacker-space in the list. There could be another <optgroup> element in the drop down menu, which gives quick access to the stared hacker-space.
